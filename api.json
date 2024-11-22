@@ -63,10 +63,12 @@
             "title": "Flutter Developer",
             "company": "IT Center - Al-Imam-Ali Holy Shrine",
             "date": "August 2024 - Present",
-            "description": "Developed a fire detection application that verifies extinguisher validity and integrates a QR. Completed the project in 20 days. Delivered a book search app for the International Book Fair in 3 days.",
+            "description": "Built a fire detection app with extinguisher validation and QR integration in just 20 days. Delivered a book search app for the International Book Fair within 3 days.",
             "icons": [
-                "logos:flutter",
-                "logos:qr-code"
+                "devicon:flutter",
+                "logos:dart",
+                "skill-icons:sqlite",
+                "devicon:trello"
             ]
         },
         {
@@ -75,10 +77,11 @@
             "title": "Flutter Developer",
             "company": "ACTI",
             "date": "June 2024 - August 2024",
-            "description": "Provided solutions that facilitated faster task performance and helped reduce workload pressure.",
+            "description": "Developed efficient Flutter solutions to streamline tasks and reduce workload pressure.",
             "icons": [
-                "logos:flutter",
-                "logos:optimization"
+                "devicon:flutter",
+                "logos:dart",
+                "logos:figma"
             ]
         },
         {
@@ -87,10 +90,11 @@
             "title": "Flutter Developer",
             "company": "Ultra Academy",
             "date": "November 2023 - May 2024",
-            "description": "Focused on improving the user experience and writing clean code using the MVVM architecture.",
+            "description": "Enhanced user experience and implemented clean code practices using the MVVM architecture.",
             "icons": [
-                "logos:flutter",
-                "logos:clean-code"
+                "devicon:flutter",
+                "logos:dart",
+                "logos:figma"
             ]
         },
         {
@@ -99,10 +103,13 @@
             "title": "Android App Team Leader",
             "company": "Graduation Project, University of Kufa Faculty of Education",
             "date": "October 2023 - March 2024",
-            "description": "Led a development team.",
+            "description": "Led a cross-functional team to develop a Android application.",
             "icons": [
-                "logos:leadership",
-                "logos:android"
+                "devicon:flutter",
+                "logos:dart",
+                "logos:figma",
+                "devicon:firebase",
+                "simple-icons:uml"
             ]
         }
     ],

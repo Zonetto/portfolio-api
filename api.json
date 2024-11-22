@@ -60,13 +60,49 @@
         {
             "id": "1",
             "sort": "1",
-            "title": "Web Developer",
-            "company": "M3 Digital - Contract",
-            "date": "September 2021 - February 2022",
-            "description": "Front-end development for a variety of Shopify stores such as FitazFK, Rider Collective, Masseuse Massage. Developed high-quality landing pages and front-end features using HTML, CSS, SCSS, JavaScript, and Liquid",
+            "title": "Flutter Developer",
+            "company": "IT Center - Al-Imam-Ali Holy Shrine",
+            "date": "August 2024 - Present",
+            "description": "Developed a fire detection application that verifies extinguisher validity and integrates a QR. Completed the project in 20 days. Delivered a book search app for the International Book Fair in 3 days.",
             "icons": [
-                "logos:html-5",
-                "logos:css-3"
+                "logos:flutter",
+                "logos:qr-code"
+            ]
+        },
+        {
+            "id": "2",
+            "sort": "2",
+            "title": "Flutter Developer",
+            "company": "ACTI",
+            "date": "June 2024 - August 2024",
+            "description": "Provided solutions that facilitated faster task performance and helped reduce workload pressure.",
+            "icons": [
+                "logos:flutter",
+                "logos:optimization"
+            ]
+        },
+        {
+            "id": "3",
+            "sort": "3",
+            "title": "Flutter Developer",
+            "company": "Ultra Academy",
+            "date": "November 2023 - May 2024",
+            "description": "Focused on improving the user experience and writing clean code using the MVVM architecture.",
+            "icons": [
+                "logos:flutter",
+                "logos:clean-code"
+            ]
+        },
+        {
+            "id": "4",
+            "sort": "4",
+            "title": "Android App Team Leader",
+            "company": "Graduation Project, University of Kufa Faculty of Education",
+            "date": "October 2023 - March 2024",
+            "description": "Led a development team.",
+            "icons": [
+                "logos:leadership",
+                "logos:android"
             ]
         }
     ],
